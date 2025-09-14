@@ -1,1 +1,7 @@
 The smallest induvidual unit is called token.
+eg:
+
+1. Keyword
+2. Variable
+3. Operator 
+
