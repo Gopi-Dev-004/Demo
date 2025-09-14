@@ -1,0 +1,1 @@
+The smallest induvidual unit is called token.
